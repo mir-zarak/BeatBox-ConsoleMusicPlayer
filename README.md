@@ -11,11 +11,9 @@ A lightweight, console-based music player built in C++. It runs on Windows and i
 - ⏭️ **Next / Previous Song** — Navigate tracks with auto wrap-around
 - 📁 **Simple Setup** — Just paste your song paths in a .txt file
 
-## Screenshots
+![Main Menu](./ss(1).png)
 
-![Main Menu](ss(1).png)
-
-![Playlist & Playback](ss(2).png)
+![Playlist & Playback](./ss(2).png)
 ---
 
 ## How to Run
