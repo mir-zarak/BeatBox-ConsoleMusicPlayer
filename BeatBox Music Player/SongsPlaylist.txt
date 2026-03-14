@@ -1,9 +1,3 @@
-// Copy your songs path and add them in a txt file without quotation marks ""
-
-Song1Path.mp3
-Song2Path.mp3
-Song3Path.mp3
-Song4Path.mp3
-...
+[paste here]
 
 
