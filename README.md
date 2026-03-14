@@ -13,9 +13,9 @@ A lightweight, console-based music player built in C++. It runs on Windows and i
 
 ## Screenshots
 
-![Main Menu](ss(1))
+![Main Menu](ss(1).png)
 
-![Playlist & Playback](ss(2))
+![Playlist & Playback](ss(2).png)
 ---
 
 ## How to Run
